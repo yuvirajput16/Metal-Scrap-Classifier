@@ -13,7 +13,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Diveshrao1708/Metal-Scrap-Classifier.git
+    git clone https://github.com/yuvirajput16/Metal-Scrap-Classifier.git
     ```
 2. **Navigate to the project directory**:
     ```bash
